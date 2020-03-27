@@ -1,3 +1,4 @@
+
 - task: DotNetCoreCLI@2
   displayName: 'Install ReportGenerator'
   inputs:
